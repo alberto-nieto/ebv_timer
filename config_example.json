@@ -1,0 +1,19 @@
+{
+  "login_url": "https://ebvlearning.es/login/index.php?sesskey=TjXa5qIXJjAcceder",
+  "session_url": "https://ebvlearning.es/course/view.php?id=63#section-3",
+  "credentials": {
+    "username": "usuario",
+    "password": "contraseña"
+  },
+  "form_fields": {
+    "username_field": "username",
+    "password_field": "password",
+    "submit_button": "//loginbtn[@type='submit']"
+  },
+  "session_settings": {
+    "refresh_interval": 300,
+    "max_retries": 3,
+    "timeout": 10,
+    "headless": false
+  }
+}
